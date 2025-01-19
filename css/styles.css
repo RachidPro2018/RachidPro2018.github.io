@@ -3895,13 +3895,13 @@ img.u-pull-left {
 }
 
 .video-block__bg-left {
-    background-image : url(../images/video-bg-01.jpg);
+    background-image : url(../images/video1.git);
     left             : 0;
     right            : 50%;
 }
 
 .video-block__bg-right {
-    background-image : url(../images/video-bg-02.jpg);
+    background-image : url(../images/video2.gif);
     left             : 50%;
     right            : 0;
 }
